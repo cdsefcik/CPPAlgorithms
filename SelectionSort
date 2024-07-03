@@ -3,6 +3,8 @@ This algorithm is from the Data Structure & Algorithm using C++: Zero To Mastery
 
 Paramters: The array, then the number of elements to sort.
 
+The time complexity of this algorithm is n^2.
+
 */
 
 void selectionSort(int a[], int n) {
