@@ -5,6 +5,8 @@ Paramters: The array, then the number of elements to sort.
 
 The time complexity of this algorithm is n^2.
 
+Development notes, when using this algorithm, when the list is 1 character, might need to account for this. Throws an error.
+
 */
 
 void selectionSort(int a[], int n) {
