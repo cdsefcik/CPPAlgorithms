@@ -3,6 +3,8 @@
 /*
 *This program implements the linear search algorithm.
 *Program is big(o) of n.
+*Development notes | Possible enhancements: 
+*Improve this to return an array instead of an integer to provide the positions of every instance of the key.
 */
 
 int linearSearch(int* a, int n, int key) {
