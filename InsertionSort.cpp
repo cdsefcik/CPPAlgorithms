@@ -1,3 +1,10 @@
+/*
+Was from the C++ data structures and algorithms course.
+
+The parameters are an array and the size of the array.
+
+*/
+
 #include <iostream>
 
 using namespace std;
